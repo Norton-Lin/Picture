@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T07:51:12.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.1" etag="EKRX4VlMyjfAVjnSsCKF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T08:23:17.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="_OXm-j3msJznUixgrLI8" version="24.0.1" type="github">
   <diagram name="第 1 页" id="7fgJvaHBqi3yU1z7EErL">
-    <mxGraphModel>
+    <mxGraphModel dx="1402" dy="1027" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-1" value="dhcp6_packet:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="-19" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-2" target="WI6sbjwCtDeHjmbu1DZx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-2" value="recv_dhcp_packet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="21" width="199" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-3" target="WI6sbjwCtDeHjmbu1DZx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-3" value="relay_reply6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="90" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-5" target="WI6sbjwCtDeHjmbu1DZx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363.20001220703125" y="295.20001220703125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-5" value="wildcard_match&lt;div&gt;(匹配tmp-&amp;gt;name和ifr.ifr_name)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="43.5" y="161" width="256" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="394.4000244140625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-8" value="数据包来自远程情况下&lt;div&gt;tmp-&amp;gt;name = eth0&lt;div&gt;ifr.ifr_name = eth0&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-62" y="300" width="154" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361.5" y="391.20001220703125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-9" value="数据包来自本地情况下&lt;div&gt;tmp-&amp;gt;name = eth0&lt;div&gt;ifr.ifr_name = local&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="296" width="143" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-12" value="匹配成功，结束判断，函数返回，不触发漏洞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-13" target="WI6sbjwCtDeHjmbu1DZx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-13" value="匹配失败，继续处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="391" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="WI6sbjwCtDeHjmbu1DZx-16" target="WI6sbjwCtDeHjmbu1DZx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-16" value="调用dhcp_maybe_relay&lt;div&gt;函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="304" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WI6sbjwCtDeHjmbu1DZx-17" value="调用memcpy函数，漏洞触发" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="304" y="551" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
