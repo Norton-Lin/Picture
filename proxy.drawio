@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T08:45:10.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="5xH1IlnnKcka-1rhW7s3" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T08:49:45.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="H0-6iHaBdT-iRZmo2LKY" version="24.2.5" type="github">
   <diagram name="第 1 页" id="S16d00lvsxIatNt262x6">
     <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,11 +175,23 @@
         <mxCell id="2Vj6fBxnY4hKCpjUh4QR-174" value="&lt;font color=&quot;#e4420c&quot;&gt;已切换至Proxy2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2Vj6fBxnY4hKCpjUh4QR-132">
           <mxGeometry x="70" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2Vj6fBxnY4hKCpjUh4QR-179" value="&lt;font color=&quot;#0caee4&quot;&gt;Proxy2正常服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2Vj6fBxnY4hKCpjUh4QR-132">
+          <mxGeometry x="264" y="250" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Vj6fBxnY4hKCpjUh4QR-180" value="&lt;font color=&quot;#e40c0c&quot;&gt;Proxy1拒绝服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2Vj6fBxnY4hKCpjUh4QR-132">
+          <mxGeometry x="258.5" width="101" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="2Vj6fBxnY4hKCpjUh4QR-135" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="460" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2Vj6fBxnY4hKCpjUh4QR-136" value="切换至代理2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="497.5" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2Vj6fBxnY4hKCpjUh4QR-176" value="&lt;font color=&quot;#0caee4&quot;&gt;Proxy1正常服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424.15999999999997" y="170" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Vj6fBxnY4hKCpjUh4QR-181" value="&lt;font color=&quot;#0caee4&quot;&gt;代理切换请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449.99999999999994" y="316.78" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
