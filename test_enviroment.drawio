@@ -68,7 +68,7 @@
           <mxGeometry x="855" y="565" width="62.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kf5pje2jv3knRxvTWSDj-29" value="&lt;div&gt;自适评估模块&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="955" y="419.65" width="80" height="23.5" as="geometry" />
+          <mxGeometry x="960" y="421.9" width="80" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="kf5pje2jv3knRxvTWSDj-30" value="&lt;div&gt;数据库&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="419.65" width="70" height="28" as="geometry" />
