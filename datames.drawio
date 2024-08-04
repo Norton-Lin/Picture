@@ -138,7 +138,7 @@
             <mxPoint x="105" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8bBNgQ8aryZoF3C_Iw8-61" value="经过服务接入点&lt;div&gt;访问真实服务&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="c8bBNgQ8aryZoF3C_Iw8-6">
+        <mxCell id="c8bBNgQ8aryZoF3C_Iw8-61" value="经过服务接入点&lt;div&gt;访问真实服务节点&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="c8bBNgQ8aryZoF3C_Iw8-6">
           <mxGeometry x="50" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8bBNgQ8aryZoF3C_Iw8-64" value="服务响应" style="html=1;whiteSpace=wrap;" vertex="1" parent="c8bBNgQ8aryZoF3C_Iw8-6">
