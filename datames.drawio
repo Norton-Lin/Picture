@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c8bBNgQ8aryZoF3C_Iw8-59" value="尝试通过防御系统对测试服务发起DDoS攻击" style="html=1;whiteSpace=wrap;fontSize=14;fontStyle=1" parent="c8bBNgQ8aryZoF3C_Iw8-6" vertex="1">
-          <mxGeometry x="27.5" y="390" width="155" height="60" as="geometry" />
+          <mxGeometry x="27.5" y="387.5" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8bBNgQ8aryZoF3C_Iw8-61" value="攻击者与普通用户分配至不同服务接入点上" style="html=1;whiteSpace=wrap;fontSize=14;fontStyle=1" parent="c8bBNgQ8aryZoF3C_Iw8-6" vertex="1">
           <mxGeometry x="35" y="558.76" width="140" height="60" as="geometry" />
