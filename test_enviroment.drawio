@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.12">
   <diagram name="第 1 页" id="eJZK5VLB4pEVgPS30-2I">
     <mxGraphModel dx="1514" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="kf5pje2jv3knRxvTWSDj-8" value="攻击IP地址&lt;div&gt;192.168.21-28&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="248.5" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kf5pje2jv3knRxvTWSDj-10" value="国产高性能服务器&lt;div&gt;部署集群&lt;span style=&quot;font-family: Calibri; font-size: 10.5pt; background-color: initial;&quot;&gt;NF2180M3&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kf5pje2jv3knRxvTWSDj-10" value="国产化主动防御系统原型样机&lt;span style=&quot;background-color: initial; font-family: Calibri; font-size: 10.5pt;&quot;&gt;NF2180M3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="401.9" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kf5pje2jv3knRxvTWSDj-15" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
