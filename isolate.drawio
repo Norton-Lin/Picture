@@ -127,9 +127,9 @@
             <mxPoint x="840" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EErVBLPvfRddhGIOYUIe-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EErVBLPvfRddhGIOYUIe-32" target="EErVBLPvfRddhGIOYUIe-35">
+        <mxCell id="EErVBLPvfRddhGIOYUIe-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.011;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.701;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EErVBLPvfRddhGIOYUIe-32" target="EErVBLPvfRddhGIOYUIe-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="-10" as="sourcePoint" />
+            <mxPoint x="650" y="-60" as="sourcePoint" />
             <mxPoint x="750" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -150,6 +150,45 @@
         </mxCell>
         <mxCell id="EErVBLPvfRddhGIOYUIe-48" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="834.38" y="160" width="31.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-49" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="821.25" y="-104.5" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-51" value="数据库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827.25" y="-55" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="-70" as="sourcePoint" />
+            <mxPoint x="820" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-53" value="决策数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-104" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="90" as="sourcePoint" />
+            <mxPoint x="1020" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-55" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="60" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-56" value="真实数据库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="109" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-57" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="160" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="921.25" y="184" as="sourcePoint" />
+            <mxPoint x="1020" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EErVBLPvfRddhGIOYUIe-60" value="隔离区专用数据库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="210" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
