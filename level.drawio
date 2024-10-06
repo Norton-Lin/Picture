@@ -1,9 +1,147 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="98Y8HMOos_w_IPIfrQCp">
-    <mxGraphModel>
+    <mxGraphModel dx="1829" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-110" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="-1" as="sourcePoint" />
+            <mxPoint x="550" y="-1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="-1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-3" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.007;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.992;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257.97" y="91.74000000000002" as="sourcePoint" />
+            <mxPoint x="547.6800000000001" y="90.00000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-4" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="280" y="-100" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-5" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="350" y="-100" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-6" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="420" y="-100" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-7" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="280" y="11" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-8" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="350" y="11" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-9" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="420" y="11" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-10" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="280" y="102" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-11" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="350" y="102" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-12" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="420" y="102" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-13" value="隔离区一：高信任间断异常用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-14" value="隔离区二：高信任持续异常用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="59" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-15" value="隔离区三：低信任持续异常用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-260" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-40" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="1">
+          <mxGeometry y="-180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-22" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/security_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-23" value="PDP 策略决策点，监测和验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-24" value="PED策略执行点，拦截与放行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/security_services.svg;" vertex="1" parent="1">
+          <mxGeometry y="-20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/security_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/security_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-29" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="1">
+          <mxGeometry y="-250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-30" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_access_management.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UISn0Z6kme_nx4rsPhg9-19" target="UISn0Z6kme_nx4rsPhg9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UISn0Z6kme_nx4rsPhg9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="50" as="sourcePoint" />
+            <mxPoint x="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-33" value="引导至不同隔离区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="11" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="UISn0Z6kme_nx4rsPhg9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-170" as="sourcePoint" />
+            <mxPoint x="220" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-35" value="记录并调度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.862;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UISn0Z6kme_nx4rsPhg9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="140" as="sourcePoint" />
+            <mxPoint x="588.8888888888887" y="151.1111111111111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-38" value="引导至蜜罐环境，攻击溯源或封禁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.862;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="41" as="sourcePoint" />
+            <mxPoint x="588.8888888888887" y="52.111111111111086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-40" value="高强度身份验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-41" value="提高身份验证需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UISn0Z6kme_nx4rsPhg9-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.862;exitY=0.862;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-63.11" as="sourcePoint" />
+            <mxPoint x="588.8888888888887" y="-51.998888888888914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
