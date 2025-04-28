@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.15" pages="2">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2268" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -151,6 +151,158 @@
         </mxCell>
         <mxCell id="uV9IjcAgHgPdETeR11ij-10" value="服务响应" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" parent="uV9IjcAgHgPdETeR11ij-1" vertex="1">
           <mxGeometry x="25" y="677.5" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="page2" id="cp6_uhwrkKhUhi6gc0BU">
+    <mxGraphModel dx="2181" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-0" />
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-1" parent="43v9_0pXW71Xx3ZQQX_0-0" />
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;测试环境&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=19;align=center;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-1">
+          <mxGeometry x="-635" y="-10" width="1250" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;操作测试平台&lt;/font&gt;" style="swimlane;html=1;startSize=20;fontSize=14;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-2">
+          <mxGeometry y="20" width="250" height="930" as="geometry">
+            <mxRectangle y="20" width="40" height="970" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-3" source="43v9_0pXW71Xx3ZQQX_0-5" target="43v9_0pXW71Xx3ZQQX_0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-5" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=14;align=center;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="105" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-3" source="43v9_0pXW71Xx3ZQQX_0-6" target="43v9_0pXW71Xx3ZQQX_0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-6" value="连接模拟用户平台" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-3" source="43v9_0pXW71Xx3ZQQX_0-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="274.9999999999998" y="287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-8" value="连接攻击&lt;div&gt;模拟平台/软件&lt;/div&gt;" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="260" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-9" value="记录MOTAG系统中的资源消耗" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="377.5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-10" value="测算正常用户&lt;div style=&quot;font-size: 19px;&quot;&gt;网络服务质量损耗&lt;/div&gt;" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="810" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-3" source="43v9_0pXW71Xx3ZQQX_0-12" target="43v9_0pXW71Xx3ZQQX_0-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-12" value="记录DDoS攻击情况下正常&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;用户服务质量&lt;/span&gt;" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="685" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-13" value="连接模拟用户平台" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-3">
+          <mxGeometry x="25" y="580" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-3" source="43v9_0pXW71Xx3ZQQX_0-9" target="43v9_0pXW71Xx3ZQQX_0-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-15" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;攻击模拟平台/软件&lt;/font&gt;" style="swimlane;html=1;startSize=20;fontSize=14;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-2">
+          <mxGeometry x="250" y="20" width="250" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-15" source="3ZpdAbucTaQ6L7aHE_Z3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-1" value="&lt;span style=&quot;font-size: 19px; font-weight: 700;&quot;&gt;创建隐蔽攻击者接入MOTAG系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-15">
+          <mxGeometry x="30" y="260" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-17" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;模拟用户平台&lt;/font&gt;" style="swimlane;html=1;startSize=20;fontSize=14;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-2">
+          <mxGeometry x="500" y="20" width="250" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-18" value="创建若干用户接入MOTAG系统" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-17">
+          <mxGeometry x="25" y="136.25" width="200" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-20" value="得到服务质量数据（时延、请求数）" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-17">
+          <mxGeometry x="25" y="672.5" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-21" value="使用wrk工具，测试经过防御系统的正常用户服务质量" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-17">
+          <mxGeometry x="25" y="575.63" width="200" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-22" value="&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;项目原型系统&lt;/span&gt;" style="swimlane;html=1;startSize=20;fontSize=14;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-2">
+          <mxGeometry x="750" y="20" width="250" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-25" value="攻击者与普通用户分配至不同服务接入点上" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-22">
+          <mxGeometry x="25" y="579.39" width="200" height="71.24" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-22" target="43v9_0pXW71Xx3ZQQX_0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="570" as="targetPoint" />
+            <mxPoint x="125" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-18" target="43v9_0pXW71Xx3ZQQX_0-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-45" target="43v9_0pXW71Xx3ZQQX_0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-20" target="43v9_0pXW71Xx3ZQQX_0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-6" target="43v9_0pXW71Xx3ZQQX_0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-25" target="43v9_0pXW71Xx3ZQQX_0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-21" target="43v9_0pXW71Xx3ZQQX_0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-2" source="43v9_0pXW71Xx3ZQQX_0-13" target="43v9_0pXW71Xx3ZQQX_0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;MOTAG系统&lt;/font&gt;&lt;/span&gt;" style="swimlane;html=1;startSize=20;fontSize=14;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-2">
+          <mxGeometry x="1000" y="20" width="250" height="930" as="geometry">
+            <mxRectangle x="1000" y="20" width="70" height="930" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-39" source="43v9_0pXW71Xx3ZQQX_0-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-40" value="MOTAG系统接入隐蔽攻击者遭受持续攻击" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-39">
+          <mxGeometry x="25" y="257.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-39" source="43v9_0pXW71Xx3ZQQX_0-42" target="43v9_0pXW71Xx3ZQQX_0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-42" value="普通用户通过防御系统访问测试服务" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-39">
+          <mxGeometry x="25" y="580" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontStyle=1" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-39" source="43v9_0pXW71Xx3ZQQX_0-44" target="43v9_0pXW71Xx3ZQQX_0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-44" value="MOTAG系统中接入若干用户" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-39">
+          <mxGeometry x="25" y="145" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="43v9_0pXW71Xx3ZQQX_0-45" value="服务响应" style="html=1;whiteSpace=wrap;fontSize=19;fontStyle=1" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-39">
+          <mxGeometry x="25" y="677.5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="43v9_0pXW71Xx3ZQQX_0-39" source="3ZpdAbucTaQ6L7aHE_Z3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-765.0000000000002" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZpdAbucTaQ6L7aHE_Z3-9" value="&lt;span style=&quot;font-size: 19px; font-weight: 700;&quot;&gt;MOTAG系统受到攻击对系统中用户随机洗牌&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="43v9_0pXW71Xx3ZQQX_0-39">
+          <mxGeometry x="25" y="370" width="205" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
