@@ -196,6 +196,18 @@
         <mxCell id="5n2_r3aJorOYsgTvqN1R-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;192.168.11.105-108&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="915.96" y="548" width="224.04" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="5n2_r3aJorOYsgTvqN1R-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="250" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n2_r3aJorOYsgTvqN1R-11" value="10.112.0.0/16 操作子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="131.83" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5n2_r3aJorOYsgTvqN1R-12" value="192.168.0.0/16 测试环境子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="131.83" width="170" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
