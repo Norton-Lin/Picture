@@ -70,7 +70,7 @@
         <mxCell id="H23gf1kvpiBVqyn68pWK-75" value="服务获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H23gf1kvpiBVqyn68pWK-81" value="服务登记" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="H23gf1kvpiBVqyn68pWK-81" value="服务&lt;div&gt;登记&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1060" y="715.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H23gf1kvpiBVqyn68pWK-83" value="&lt;b&gt;&lt;font&gt;国产化主动防御原型系统&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
