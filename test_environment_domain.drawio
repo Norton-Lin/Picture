@@ -67,11 +67,11 @@
         <mxCell id="H23gf1kvpiBVqyn68pWK-65" value="服务信息记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="845" y="725.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H23gf1kvpiBVqyn68pWK-75" value="服务获取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1110" width="60" height="30" as="geometry" />
+        <mxCell id="H23gf1kvpiBVqyn68pWK-75" value="服务&lt;div&gt;获取&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="1102.77" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H23gf1kvpiBVqyn68pWK-81" value="服务&lt;div&gt;登记&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="715.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1060" y="710" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H23gf1kvpiBVqyn68pWK-83" value="&lt;b&gt;&lt;font&gt;国产化主动防御原型系统&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="686" y="1360" width="170" height="50" as="geometry" />
@@ -87,7 +87,7 @@
         </mxCell>
         <mxCell id="H23gf1kvpiBVqyn68pWK-104" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=15;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1017.48" y="1140.82" as="sourcePoint" />
+            <mxPoint x="1030" y="1140" as="sourcePoint" />
             <mxPoint x="1100" y="1141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
