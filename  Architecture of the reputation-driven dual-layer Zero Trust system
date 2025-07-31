@@ -80,13 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-24" value="Verify when necessary" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="630" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-25" value="Check request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zldldJSScrZ-u8i5aGjH-27" value="take token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="zldldJSScrZ-u8i5aGjH-27" value="Take token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="750" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-29" value="Connect after verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="840" width="80" height="30" as="geometry" />
@@ -98,6 +98,18 @@
               <mxPoint x="430" y="841" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zldldJSScrZ-u8i5aGjH-31" value="Subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zldldJSScrZ-u8i5aGjH-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.651;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zldldJSScrZ-u8i5aGjH-31" target="zldldJSScrZ-u8i5aGjH-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="740" as="sourcePoint" />
+            <mxPoint x="260" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zldldJSScrZ-u8i5aGjH-34" value="Send request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
