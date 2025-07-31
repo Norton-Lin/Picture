@@ -25,9 +25,6 @@
         <mxCell id="zldldJSScrZ-u8i5aGjH-6" value="Policy Decision Point&lt;div&gt;(PDP)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zldldJSScrZ-u8i5aGjH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zldldJSScrZ-u8i5aGjH-8" target="zldldJSScrZ-u8i5aGjH-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-8" value="Service Proxy&lt;br&gt;&lt;div&gt;&lt;div&gt;(First-layer PEP)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="745" width="150" height="80" as="geometry" />
         </mxCell>
@@ -86,7 +83,7 @@
           <mxGeometry x="380" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-27" value="Take token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="750" width="60" height="40" as="geometry" />
+          <mxGeometry x="400" y="745" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zldldJSScrZ-u8i5aGjH-29" value="Connect after verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="840" width="80" height="30" as="geometry" />
@@ -148,6 +145,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="282" y="670" as="sourcePoint" />
             <mxPoint x="230" y="683" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zldldJSScrZ-u8i5aGjH-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zldldJSScrZ-u8i5aGjH-8" target="zldldJSScrZ-u8i5aGjH-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="790" as="sourcePoint" />
+            <mxPoint x="460" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
