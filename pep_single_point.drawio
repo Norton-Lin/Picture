@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c5PJ556gErwVJ9SsI2WX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="475" width="490" height="305" as="geometry" />
+          <mxGeometry x="140" y="475" width="480" height="305" as="geometry" />
         </mxCell>
         <mxCell id="RqS8uR1NdfvgzINYUIe5-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.997;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="c5PJ556gErwVJ9SsI2WX-5" target="c5PJ556gErwVJ9SsI2WX-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,7 +49,7 @@
             <mxPoint x="420" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RqS8uR1NdfvgzINYUIe5-13" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;Enterprise&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;Resource&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#004f72, #ededed);" parent="1" vertex="1">
+        <mxCell id="RqS8uR1NdfvgzINYUIe5-13" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;Enterprise&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;Resource&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="695" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RqS8uR1NdfvgzINYUIe5-14" value="Trust" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
