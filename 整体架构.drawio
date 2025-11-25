@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hQIALeFDOJK7oJiHQCC6-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="可信连接" vertex="1">
-          <mxGeometry height="30" width="60" x="570" y="425" as="geometry" />
+          <mxGeometry height="30" width="60" x="560" y="422.5" as="geometry" />
         </mxCell>
         <mxCell id="hQIALeFDOJK7oJiHQCC6-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20value%3D%22%E7%AD%96%E7%95%A5%E4%B8%8B%E5%8F%91%E4%B8%8E%E6%9B%B4%E6%96%B0%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%22100%22%20x%3D%22370%22%20y%3D%22315%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="490" y="310" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="hQIALeFDOJK7oJiHQCC6-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="验证后连接" vertex="1">
           <mxGeometry height="30" width="80" x="390" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="hQIALeFDOJK7oJiHQCC6-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="发送请求" vertex="1">
+        <mxCell id="hQIALeFDOJK7oJiHQCC6-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="用户请求交互" vertex="1">
           <mxGeometry height="30" width="100" x="190" y="425" as="geometry" />
         </mxCell>
         <mxCell id="hQIALeFDOJK7oJiHQCC6-16" edge="1" parent="1" source="hQIALeFDOJK7oJiHQCC6-32" style="endArrow=classic;html=1;rounded=0;entryX=0.108;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.448;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="hQIALeFDOJK7oJiHQCC6-5" value="">
