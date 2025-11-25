@@ -10,8 +10,8 @@
         <mxCell id="hQIALeFDOJK7oJiHQCC6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" value="" vertex="1">
           <mxGeometry height="280" width="640" x="70" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="hQIALeFDOJK7oJiHQCC6-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;用户平面&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="85" y="210" as="geometry" />
+        <mxCell id="hQIALeFDOJK7oJiHQCC6-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;控制平面&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="80" y="210" as="geometry" />
         </mxCell>
         <mxCell id="hQIALeFDOJK7oJiHQCC6-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;数据平面&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="80" y="255" as="geometry" />
